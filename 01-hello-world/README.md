@@ -12,7 +12,9 @@ Kick off your project with this hello-world boilerplate. This starter ships with
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
-`Hello World Demo Site:` https://repulsive-can.surge.sh/
+**Hello World Demo Site:**
+
+https://repulsive-can.surge.sh/
 
 ## 🚀 Quick start
 
